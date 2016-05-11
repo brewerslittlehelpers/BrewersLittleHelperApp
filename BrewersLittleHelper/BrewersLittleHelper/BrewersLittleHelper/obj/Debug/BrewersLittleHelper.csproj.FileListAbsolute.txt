@@ -1,0 +1,12 @@
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\BrewersLittleHelper.dll
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\BrewersLittleHelper.pdb
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\obj\Debug\BrewersLittleHelper.csprojResolveAssemblyReference.cache
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\obj\Debug\BrewersLittleHelper.dll
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\obj\Debug\BrewersLittleHelper.pdb
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\obj\Debug\BrewersLittleHelper.dll.mdb
+C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper\bin\Debug\BrewersLittleHelper.dll.mdb
