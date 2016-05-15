@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BrewersLittleHelper.ManageDevicePage">
+	<ScrollView>
+		<!--<StackLayout>-->
+			<Grid>
+				<Grid.RowDefinitions>
+					<RowDefinition Height="1*" />
+					<RowDefinition Height="2*" />
+					<RowDefinition Height="2*" />
+					<RowDefinition Height="2*" />
+					<RowDefinition Height="1*" />
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="1*" />
+					<ColumnDefinition Width="1*" />
+				</Grid.ColumnDefinitions>
+				<!--<BoxView BackgroundColor="White" HeightRequest="600" WidthRequest="150"/>-->
+				<Label Text="Manage my helpers" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20" VerticalOptions="Center" HorizontalOptions="Center" />
+
+				<Button Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Clicked="helperClicked" />
+				<Label Text="Helper 1: IPA" Grid.Row="1" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" />
+				<ProgressBar Progress="0.8" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Start" WidthRequest="100" />
+				<Label Text="80%" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="End" WidthRequest="50" />
+
+				<Button x:Name="Helper2" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Clicked="helperClicked" />
+				<Label Text="Helper 2: Wheat beer" Grid.Row="2" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" />
+				<ProgressBar Progress="0.1" Grid.Row="2" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Start" WidthRequest="100" />
+				<Label Text="10%" Grid.Row="2" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="End" WidthRequest="50" />
+
+				<Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Clicked="helperClicked" />
+				<Label Text="Helper 3: Lager" Grid.Row="3" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" />
+				<ProgressBar Progress="0.6" Grid.Row="3" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Start" WidthRequest="100" />
+				<Label Text="60%" Grid.Row="3" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="End" WidthRequest="50" />
+
+				<Button Text="Add new Helper" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" VerticalOptions="Center" HorizontalOptions="Center" Clicked="addHelperClicked" />
+			</Grid>
+		<!--</StackLayout>-->
+	</ScrollView>
+</ContentPage>
