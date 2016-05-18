@@ -21,10 +21,12 @@ namespace BrewersLittleHelper
 			});
 			masterPageItems.Add (new MasterPageItem{
 				Title = "Thresholds",
+				IconSource = "hamburger.png",
 				TargetType = typeof(ThresholdPage)
 			});
 			masterPageItems.Add (new MasterPageItem{
 				Title = "Overview",
+				IconSource = "hamburger.png",
 				TargetType = typeof(OverviewPage)
 			});
 
