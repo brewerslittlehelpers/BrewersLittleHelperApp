@@ -9,22 +9,21 @@ namespace BrewersLittleHelper
 {
     public class App : Application
     {
-        public App()
+
+		public App()
+		{
+
+			MainPage = new MainPage ();
+		}
+
+        public App(object s, EventArgs e)
         {
-            // The root page of your application
-            MainPage = new ContentPage
-            {
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
-                    }
-                }
-            };
+            // Do stuff here
+        }
+
+        public void ThreshholdButtonClicked()
+        {
+            // do something
         }
 
         protected override void OnStart()

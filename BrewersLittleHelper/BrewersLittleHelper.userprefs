@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="BrewersLittleHelper/BrewersLittleHelper.iOS/BrewersLittleHelper.iOS.csproj">
+  <DisabledProjects>
+    <String>BrewersLittleHelper/BrewersLittleHelper.WinPhone/BrewersLittleHelper.WinPhone.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BrewersLittleHelper/BrewersLittleHelper.iOS/Main.cs">
+    <Files>
+      <File FileName="BrewersLittleHelper/BrewersLittleHelper/App.cs" Line="14" Column="4" />
+      <File FileName="BrewersLittleHelper/BrewersLittleHelper.iOS/AppDelegate.cs" Line="26" Column="29" />
+      <File FileName="BrewersLittleHelper/BrewersLittleHelper/MonitorPage.xaml" Line="14" Column="24" />
+      <File FileName="BrewersLittleHelper/BrewersLittleHelper.iOS/Main.cs" Line="19" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
