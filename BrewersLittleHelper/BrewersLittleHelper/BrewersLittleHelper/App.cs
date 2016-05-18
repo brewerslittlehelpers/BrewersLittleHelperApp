@@ -12,8 +12,7 @@ namespace BrewersLittleHelper
 
 		public App()
 		{
-
-			MainPage = new MainPage ();
+			MainPage = new BrewersLittleHelper.MainPage ();
 		}
 
         public App(object s, EventArgs e)

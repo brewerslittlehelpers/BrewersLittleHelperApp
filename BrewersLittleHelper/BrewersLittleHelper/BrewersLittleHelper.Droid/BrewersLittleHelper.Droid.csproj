@@ -91,6 +91,8 @@
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
+    <None Include="Resources\drawable\hamburger.png" />
+    <None Include="Resources\drawable\hamburger%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\icon.png" />
