@@ -55,6 +55,8 @@
     <Compile Include="GraphDetailPage.xaml.cs">
       <DependentUpon>GraphDetailPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\DataPoint.cs" />
+    <Compile Include="ViewModel\ChartViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -107,5 +109,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Model\" />
   </ItemGroup>
 </Project>
