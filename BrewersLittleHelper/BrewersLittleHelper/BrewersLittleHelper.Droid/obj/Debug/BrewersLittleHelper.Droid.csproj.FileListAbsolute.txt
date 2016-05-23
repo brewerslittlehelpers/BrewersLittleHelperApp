@@ -28,3 +28,6 @@ C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\B
 C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper.Droid\obj\Debug\uploadflags.txt
 C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper.Droid\obj\Debug\BrewersLittleHelper.Droid.dll.mdb
 C:\Users\Corcatraz\Documents\GitHub\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper.Droid\bin\Debug\BrewersLittleHelper.Droid.dll.mdb
+\\Mac\Home\Desktop\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper.Droid\obj\Debug\BrewersLittleHelper.Droid.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper.Droid\obj\Debug\BrewersLittleHelper.Droid.dll
+\\Mac\Home\Desktop\BrewersLittleHelperApp\BrewersLittleHelper\BrewersLittleHelper\BrewersLittleHelper.Droid\obj\Debug\BrewersLittleHelper.Droid.pdb

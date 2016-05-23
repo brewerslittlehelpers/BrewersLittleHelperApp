@@ -1,77 +1,77 @@
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/BrewersLittleHelper.Droid.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Mono.Android.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/mscorlib.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.Linq.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.RecyclerView.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.Design.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.CardView.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.MediaRouter.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Platform.Android.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/FormsViewGroup.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Core.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Xaml.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Platform.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Core.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/BrewersLittleHelper.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Collections.Concurrent.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Collections.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.Annotations.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.EventBasedAsync.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Contracts.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Debug.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Tools.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Tracing.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Dynamic.Runtime.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Globalization.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.IO.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.Expressions.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.Parallel.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.Queryable.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.NetworkInformation.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.Primitives.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.Requests.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ObjectModel.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Emit.ILGeneration.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Emit.Lightweight.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Emit.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Extensions.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Primitives.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Resources.ResourceManager.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Extensions.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.InteropServices.WindowsRuntime.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.InteropServices.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Numerics.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.Json.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.Primitives.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.Xml.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Security.Principal.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Http.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Primitives.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Security.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Text.Encoding.Extensions.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Text.Encoding.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Text.RegularExpressions.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.Tasks.Parallel.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.Tasks.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.Timer.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.ReaderWriter.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.XDocument.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.XmlSerializer.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Internals.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.Http.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.DataAnnotations.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Numerics.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.Composition.dll
-/Users/tonygjendahl/Documents/Skole/Mobile and Pervasive Systems/BrewersLittleHelpers/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/BrewersLittleHelper.Droid.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Mono.Android.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/mscorlib.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.Linq.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.Design.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.CardView.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Platform.Android.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/FormsViewGroup.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Core.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Xaml.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/Xamarin.Forms.Platform.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Core.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/BrewersLittleHelper.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Collections.Concurrent.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Collections.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.Annotations.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.EventBasedAsync.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Contracts.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Debug.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Tools.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Diagnostics.Tracing.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Dynamic.Runtime.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Globalization.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.IO.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.Expressions.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.Parallel.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.Queryable.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Linq.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.NetworkInformation.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.Primitives.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.Requests.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ObjectModel.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Emit.ILGeneration.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Emit.Lightweight.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Emit.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Extensions.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.Primitives.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Reflection.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Resources.ResourceManager.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Extensions.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.InteropServices.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Numerics.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.Json.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.Primitives.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.Xml.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Security.Principal.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Http.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Primitives.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Security.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Text.Encoding.Extensions.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Text.Encoding.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Text.RegularExpressions.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.Tasks.Parallel.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.Tasks.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.Timer.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Threading.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.ReaderWriter.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.XDocument.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Xml.XmlSerializer.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.Internals.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Net.Http.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.DataAnnotations.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.Numerics.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ComponentModel.Composition.dll
+/Users/CKEspanol/Desktop/BrewersLittleHelperApp/BrewersLittleHelper/BrewersLittleHelper/BrewersLittleHelper.Droid/obj/Debug/assemblies/System.ServiceModel.dll
