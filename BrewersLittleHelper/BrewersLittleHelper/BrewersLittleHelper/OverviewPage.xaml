@@ -5,9 +5,11 @@
 				Title="Overview">
 	
 	<ContentPage.Content>
-		<StackLayout>
+		<StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
 			<Button Text="Alcohol Graph"></Button>
-			<Label Text="Overview" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+			<Button Text="pH Graph"></Button>
+			<Button Text="Alcohol Graph"></Button>
+			<Button Text="Alcohol Graph"></Button>
 		</StackLayout>
 	</ContentPage.Content>
 

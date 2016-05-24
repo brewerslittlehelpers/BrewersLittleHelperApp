@@ -16,17 +16,17 @@ namespace BrewersLittleHelper
 			var masterPageItems = new List<MasterPageItem> ();
 			masterPageItems.Add (new MasterPageItem{
 				Title = "Monitor",
-				IconSource = "hamburger.png",
+//				IconSource = "hamburger.png",
 				TargetType = typeof(GraphDetailPage)
 			});
 			masterPageItems.Add (new MasterPageItem{
 				Title = "Thresholds",
-				IconSource = "hamburger.png",
+//				IconSource = "hamburger.png",
 				TargetType = typeof(ThresholdPage)
 			});
 			masterPageItems.Add (new MasterPageItem{
 				Title = "Overview",
-				IconSource = "hamburger.png",
+//				IconSource = "hamburger.png",
 				TargetType = typeof(OverviewPage)
 			});
 

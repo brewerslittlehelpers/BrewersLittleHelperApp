@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="BrewersLittleHelper/BrewersLittleHelper.iOS/BrewersLittleHelper.iOS.csproj">
+﻿<Properties StartupItem="BrewersLittleHelper/BrewersLittleHelper.Droid/BrewersLittleHelper.Droid.csproj">
   <DisabledProjects>
     <String>BrewersLittleHelper/BrewersLittleHelper.WinPhone/BrewersLittleHelper.WinPhone.csproj</String>
   </DisabledProjects>
